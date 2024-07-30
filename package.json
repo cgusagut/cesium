@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@cesium-china/cesium-map": "^1.0.0",
+    "ag-grid-community": "^32.0.2",
+    "cesium": "1.99",
+    "dat.gui": "^0.7.9",
+    "lodash": "^4.17.21",
+    "vite-plugin-cesium": "^1.2.22"
+  },
+  "name": "cesium-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
